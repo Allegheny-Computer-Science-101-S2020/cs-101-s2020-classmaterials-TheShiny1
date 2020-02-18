@@ -1,4 +1,4 @@
-package P2;
+package P1;
 import P1.C1;
 public class C2{
 	public static void main(String[] args){
